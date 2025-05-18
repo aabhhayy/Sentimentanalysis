@@ -25,3 +25,5 @@ Data: Multi-country, time-stamped social posts with sentiment labels.
 Goal: Visualize sentiment trends for better decision-making.
 Key Features: Interactive Power BI dashboard with filters and KPIs.
 Impact: Helped spot regional emotional patterns quickly.
+
+https://github.com/aabhhayy/Sentimentanalysis/blob/main/dashboard%20img.png
